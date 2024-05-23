@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Advanced Algorithms",
+    "university": "KU",
+    "term": "Spring",
+    "description": "This course dives deep into the design and analysis of advanced algorithms. Topics include graph algorithms, network flow, approximation algorithms, and randomized algorithms. Students will learn how to apply these techniques to solve complex computational problems. The course involves both theoretical analysis and practical implementation.",
+    "ects": 10,
+    "degree": "Master",
+    "department": "Computer Science"
+  },
+  {
+    "title": "Business Strategy and Innovation",
+    "university": "CBS",
+    "term": "Fall",
+    "description": "This course provides insights into strategic management and innovation within businesses. Students will explore various models and frameworks for strategy formulation and implementation, and understand the role of innovation in gaining a competitive edge. Case studies from real-world companies will be analyzed to illustrate key concepts.",
+    "ects": 15,
+    "degree": "Bachelor",
+    "department": "Business Administration"
+  },
+  {
+    "title": "Data Science and Machine Learning",
+    "university": "ITU",
+    "term": "Spring",
+    "description": "This course covers the fundamentals of data science and machine learning. Students will learn about data preprocessing, supervised and unsupervised learning, model evaluation, and deployment. The course includes hands-on projects where students will apply machine learning algorithms to real datasets.",
+    "ects": 10,
+    "degree": "Bachelor",
+    "department": "Data Science"
+  },
+  {
+    "title": "Sustainable Energy Systems",
+    "university": "DTU",
+    "term": "Summer",
+    "description": "This course focuses on the principles and technologies behind sustainable energy systems. Topics include renewable energy sources, energy storage, grid integration, and energy policy. Students will learn about the challenges and opportunities in transitioning to sustainable energy systems through lectures, projects, and site visits.",
+    "ects": 5,
+    "degree": "Master",
+    "department": "Environmental Engineering"
+  },
+  {
+    "title": "Financial Markets and Instruments",
+    "university": "CBS",
+    "term": "Winter",
+    "description": "This course introduces students to the workings of financial markets and the instruments traded within them. Topics include equities, bonds, derivatives, and foreign exchange. Students will gain a thorough understanding of market dynamics, trading strategies, and the role of financial institutions. Practical sessions and simulations will enhance learning.",
+    "ects": 15,
+    "degree": "Bachelor",
+    "department": "Finance"
+  },
+  {
+    "title": "Human-Computer Interaction",
+    "university": "ITU",
+    "term": "Fall",
+    "description": "This course explores the principles and practices of designing user interfaces and experiences. Students will learn about usability, user-centered design, prototyping, and evaluation methods. The course includes projects where students will design and test their own interactive systems.",
+    "ects": 5,
+    "degree": "Bachelor",
+    "department": "Interaction Design"
+  },
+  {
+    "title": "Environmental Economics",
+    "university": "KU",
+    "term": "Spring",
+    "description": "This course examines the economic aspects of environmental issues. Topics include market failures, environmental policy, cost-benefit analysis, and sustainable development. Students will learn how economic principles can be applied to address environmental challenges and promote sustainability.",
+    "ects": 10,
+    "degree": "Master",
+    "department": "Economics"
+  },
+  {
+    "title": "Marketing in a Digital World",
+    "university": "CBS",
+    "term": "Fall",
+    "description": "This course focuses on the impact of digital technologies on marketing strategies and practices. Topics include social media marketing, search engine optimization, content marketing, and data analytics. Students will develop skills to create and implement effective digital marketing campaigns.",
+    "ects": 15,
+    "degree": "Bachelor",
+    "department": "Marketing"
+  },
+  {
+    "title": "Robotics and Autonomous Systems",
+    "university": "DTU",
+    "term": "Spring",
+    "description": "This course covers the fundamentals of robotics and autonomous systems. Students will learn about robot design, sensors and actuators, control systems, and artificial intelligence. The course includes hands-on projects where students will build and program their own robots.",
+    "ects": 10,
+    "degree": "Master",
+    "department": "Electrical Engineering"
+  },
+  {
+    "title": "Cybersecurity and Risk Management",
+    "university": "ITU",
+    "term": "Fall",
+    "description": "This course provides an overview of cybersecurity principles and risk management practices. Topics include threat assessment, security policies, encryption, and incident response. Students will learn how to identify and mitigate cybersecurity risks in various organizational contexts.",
+    "ects": 5,
+    "degree": "Master",
+    "department": "Information Technology"
+  }
+]
