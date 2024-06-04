@@ -71,14 +71,9 @@ app.get("/courses", (req, res) => {
   res.send(filteredCourses);
 });
 
-app.get("/courses/:university", (req, res) => {
-  const filters = req.query;
-  console.log(filters);
-  const university = req.params.university;
-  const filteredCourses = courses.filter(
-    (course) => course.university.toLowerCase() === university.toLowerCase()
-  );
-  res.send(filteredCourses);
+app.get("/courses/:id", (req, res) => {
+  const savedCourse = req.params.id;
+  res.send(courses.filter((course) => course.id === savedCourse)[0]);
 });
 
 app.listen(port, () => {

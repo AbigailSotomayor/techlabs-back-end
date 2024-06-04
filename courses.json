@@ -1,5 +1,6 @@
 [
   {
+    "id": "AdvancedAlgorithms_KU",
     "title": "Advanced Algorithms",
     "university": "KU",
     "term": "Spring",
@@ -9,6 +10,7 @@
     "department": "Computer Science"
   },
   {
+    "id": "BusinessStrategyInnovation_CBS",
     "title": "Business Strategy and Innovation",
     "university": "CBS",
     "term": "Fall",
@@ -18,6 +20,7 @@
     "department": "Business Administration"
   },
   {
+    "id": "DataScienceMachineLearning_ITU",
     "title": "Data Science and Machine Learning",
     "university": "ITU",
     "term": "Spring",
@@ -27,6 +30,7 @@
     "department": "Data Science"
   },
   {
+    "id": "SustainableEnergySystems_DTU",
     "title": "Sustainable Energy Systems",
     "university": "DTU",
     "term": "Summer",
@@ -36,6 +40,7 @@
     "department": "Environmental Engineering"
   },
   {
+    "id": "FinancialMarketsInstruments_CBS",
     "title": "Financial Markets and Instruments",
     "university": "CBS",
     "term": "Winter",
@@ -45,6 +50,7 @@
     "department": "Finance"
   },
   {
+    "id": "HumanComputerInteraction_ITU",
     "title": "Human-Computer Interaction",
     "university": "ITU",
     "term": "Fall",
@@ -54,6 +60,7 @@
     "department": "Interaction Design"
   },
   {
+    "id": "EnvironmentalEconomics_KU",
     "title": "Environmental Economics",
     "university": "KU",
     "term": "Spring",
@@ -63,6 +70,7 @@
     "department": "Economics"
   },
   {
+    "id": "MarketingDigitalWorld_CBS",
     "title": "Marketing in a Digital World",
     "university": "CBS",
     "term": "Fall",
@@ -72,6 +80,7 @@
     "department": "Marketing"
   },
   {
+    "id": "RoboticsAutonomousSystems_DTU",
     "title": "Robotics and Autonomous Systems",
     "university": "DTU",
     "term": "Spring",
@@ -81,6 +90,7 @@
     "department": "Electrical Engineering"
   },
   {
+    "id": "CybersecurityRiskManagement_ITU",
     "title": "Cybersecurity and Risk Management",
     "university": "ITU",
     "term": "Fall",
